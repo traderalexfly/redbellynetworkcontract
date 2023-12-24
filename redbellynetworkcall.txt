@@ -1,0 +1,7 @@
+# redbellynetwork contract call
+
+contract address:0xf0eb1dcd0eb8cbc37e705bff0d9bbb73847ce406
+
+function: set(uint256)
+
+call set(uint256)
